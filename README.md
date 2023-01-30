@@ -3,13 +3,15 @@ PyChain Calss Record sender receiver amount @dataclass Block Inputs to the Strea
 ## Streamlit Application
 - Running the Assignment with Steamlit the web applicaiton open the following form
 Picture 1:  Store a Transaction Record in the PyChain
-![alt=""](Images/Screenshot 1.png)
+![alt=""](Images/Screenshot_1.png)
+
+<img src=".Images/Screenshot_1.png" width = "500"> <br>
 
 Picture 2: After submission of a Single transaction
-![alt=""](Images/Screenshot 2_Input Values.png)
+![alt=""](./Images/Screenshot_2_Input Values.png)
  
  Picture 3: After clicking the Validate Cahin Button the return comes as true
-![alt=""](Images/Screenshot 3_Validation Response_True.png)
+![alt=""](./Images/Screenshot_3_Validation Response_True.png)
 
  Picture 4: After clicking the Drop down button the Block Inspector reveals all the information added to the block earlier
-![alt=""](Images/Screenshot 4_Verify the Block Content.png)
+![alt=""](./Images/Screenshot_4_Verify the Block Content.png)
