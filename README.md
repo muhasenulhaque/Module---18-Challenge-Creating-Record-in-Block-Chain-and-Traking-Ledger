@@ -5,7 +5,7 @@ PyChain Calss Record sender receiver amount @dataclass Block Inputs to the Strea
 Picture 1:  Store a Transaction Record in the PyChain
 ![alt=""](Images/Screenshot_1.png)
 
-<img src=".Images/Screenshot_1.png" width = "500"> <br>
+<img src="./Images/Screenshot_1.png" width = "500"> <br>
 
 Picture 2: After submission of a Single transaction
 ![alt=""](./Images/Screenshot_2_Input Values.png)
